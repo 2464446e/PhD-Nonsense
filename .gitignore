@@ -1,0 +1,8 @@
+*~
+*.pyc
+__pycache__
+/.venv
+/build
+*.so
+/test/*.dat
+/test/*.npy
